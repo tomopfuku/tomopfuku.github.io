@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Caroline Parins-Fukuchi
 
-You can use the [editor on GitHub](https://github.com/carolinetomo/carolinetomo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## About me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am an evolutionary biologist currently working as a PhD candidate at the University of Michigan in Ann Arbor. My research is focused on understanding patterns in the emergence of morphological disparity through time, and developing ways to better integrate these with information gleaned from molecular data to better understand phylogeny in fossil taxa and concomitant changes in genotype and phenotype. Much of this work involves the development of new methods and tools that better leverage unconventional data sources to inform reconstruction of processes and patterns across the tree of life.
 
-### Markdown
+### Relevant papers
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Parins-Fukuchi C.** In review. Bayesian and likelihood placement of fossils on phylogenies from quantitative morphometric data. Biorxiv DOI: https://doi.org/10.1101/275446
 
-```markdown
-Syntax highlighted code block
+**C Parins-Fukuchi**, Brown, J.W. In revision. What drives results in Bayesian morphological clock analyses? Biorxiv DOI: https://doi.org/10.1101/219048
 
-# Header 1
-## Header 2
-### Header 3
+**C Parins-Fukuchi**, Greiner, E., MacLatchy, L.M., Fisher, D.C. In revision. Ancestors and anagenesis in the hominin fossil record.
 
-- Bulleted
-- List
+**C Parins-Fukuchi**. 2017, Syst. Biol. Use of continuous characters can improve morphological phylogenetics. DOI: 10.1093/sysbio/syx072
 
-1. Numbered
-2. List
+J.W. Brown*, **Parins-Fukuchi, C.**\*, Stull, G.W., Vargas, O., Smith, S.A. 2017, Proc. R. Soc. B. Bayesian and likelihood phylogenetic reconstructions of morphological characters produce concordant inferences. DOI: 10.1098/rspb.2017.0986    *equal authorship.
 
-**Bold** and _Italic_ and `Code` text
+#### Software:
 
-[Link](url) and ![Image](src)
-```
+*cophymaru*: https://github.com/carolinetomo/cophymaru
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Golang package for phylogenetic analysis using continuous traits.
 
-### Jekyll Themes
+*mandos*: https://github.com/carolinetomo/mandos
+Python library for phylogenetic analysis of stratigraphic ranges, continuous and discrete morphological traits that specialises in identifying direct fossil ancestors.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/carolinetomo/carolinetomo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+##### Talks:
 
-### Support or Contact
+C. Parins-Fukuchi, Fisher, D.C. 2017, Using Temporal Occurrence Data to Infer Phylogeny. Evolution meetings, Portland OR.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+C. Parins-Fukuchi. 2017, Gleaning Insights from the Fossil Record in the Genomic Era. University of Michigan Ecology and Evolutionary Biology Dept., Ann Arbor, MI.
+
+C. Parins-Fukuchi. 2015, Molecular evolution of gestational immunity in Primates. Society for Systematic Biology standalone meeting, Ann Arbor, MI.
+
+C. Parins-Fukuchi, Smith, SA, and C. Dick. 2014. Biogeographic, molecular evolution, and diversification patterns in Neotropical plants. American Geophysical Union, San Francisco, CA
