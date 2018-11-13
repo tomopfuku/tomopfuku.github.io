@@ -5,3 +5,8 @@ email: cfukuchi@umich.edu
 description: Computational Evolutionary Biologist
 twitter_username: carolinetomo
 github_username: carolinetomo
+
+header_pages:
+        - projects.md
+        - papers.md
+        - software.md
