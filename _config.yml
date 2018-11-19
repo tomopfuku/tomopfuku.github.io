@@ -6,7 +6,7 @@ twitter_username: carolinetomo
 github_username: carolinetomo
 
 markdown: kramdown
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
 
