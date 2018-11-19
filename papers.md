@@ -1,4 +1,8 @@
-#Papers
+---
+layout: page
+title: Papers
+permalink: /papers/
+---
 
 **C. Parins-Fukuchi**. 2018, _Evolution_. Bayesian placement of fossils on phylogenies using quantitative morphometric data. DOI: 10.1111/evo.13516
 
