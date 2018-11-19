@@ -11,6 +11,6 @@ plugins:
   - jekyll-feed
 
 header_pages:
-        - projects.md
-        - papers.md
-        - software.md
+  - projects.md
+  - papers.md
+  - software.md
