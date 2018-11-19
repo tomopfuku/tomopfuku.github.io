@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">About me</h1>
+  <img src="/assets/img/self2.jpeg"  style="float: right;margin-left: 7px;margin-bottom: 7px; height: 300px;">
+  <p> I am a computational evolutionary biologist currently working as a PhD candidate at the University of Michigan in Ann Arbor. My research is focused on understanding patterns in the emergence of morphological disparity through time, and developing ways to better integrate these with information gleaned from molecular data to better understand phylogeny in fossil taxa and concomitant changes in genotype and phenotype. Much of this work involves the development of new methods and tools that better leverage unconventional data sources to inform reconstruction of processes and patterns across the tree of life. My official UMich page is <a href="https://lsa.umich.edu/eeb/people/graduate-students/cfukuchi.html">here</a>.</p>
+
+  <br>
+  <br>
+
+  <h1 class="page-heading">Updates</h1>
+  
+  {{ content }}
+
+  <ul class="post-list">
+    {% for post in site.posts limit 8 %}
+      <li>
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h2>
+        <!--<p>{{ post.excerpt }}</p>-->
+        <div class="wrapper-nopadding">
+            {{ post.content }}
+        </div>
+        <!--{{ post.content | strip_html | truncatewords:75}}<br>
+        <a href="{{ post.url }}">Read more...</a>-->
+      </li>
+    {% endfor %}
+  </ul>
+
+  <!--<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>-->
+
+</div>
