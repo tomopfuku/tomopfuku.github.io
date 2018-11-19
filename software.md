@@ -19,6 +19,8 @@ https://github.com/carolinetomo/cophycollapse
 
 Parametric unsupervised learning of mosaic evolutionary structure in datasets of quantitative traits.
 
+![clusterlen](/assets/img/fig1.svg){:style="float: right;margin-left: 7px;margin-bottom: 20px; width: 700px;"}
+
 ##  mandos
 
 https://github.com/carolinetomo/mandos
