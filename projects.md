@@ -4,6 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
+My work involves a lot of methodological development. However, this is done with the primary aim of addressing fundamental evolutionary questions pertaining to phylogenetic inference, mosaic evolution, and identifying speciation modes among fossil taxa (e.g., direct ancestry, anagenesis vs cladogenesis, and punctuated equilibria). To accommodate the vastness of life, I take a broad view across both plant and animal taxa, in hopes of understanding the fundamental evolutionary patterns that generate and maintain the diversity that we see today. 
+
 ## Morphological Evolution in Living and Fossil Plants
 
 I am engaged in work seeking to identify the diversity in evolutionary pattern underlying the emergence of fruit, seed, and pollen diversity in the angiosperm families Vitaceae (grapes) and Icacinaceae. This involves measuring support and uncertainty for the phylogenetic placement of fossil taxa and identifying the relationships between evolutionary rates and disparity between quantitative measurements of reproductive organs, genomes, and climate niche.
