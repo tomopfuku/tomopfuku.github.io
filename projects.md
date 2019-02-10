@@ -17,7 +17,7 @@ I aim to characterize the diverity of evolutionary patterns and developmental co
 
 I am interested in evaluating evidence for directly ancestral relationships by combining continuous and discrete morphological data with stratigraphic data and parametric approaches to phylogenetic inference that I have developed. Rather than relying up on emerging Bayesian approaches that account for stratigraphic information, my approach to evaluating direct ancestry involves an information-theoretic reinterpretation of stratocladistics. I have applied this approach in hominins to reveal strong statistical support for direct ancestry between several key taxa that results in a phylogenetic tree that better reflects previous paleoanthropological interpretations of hominin evolutonary relationships.
 
-![branchlens](/assets/img/branchlens.svg){:style="float: right;margin-left: 7px;margin-bottom: 20px; width: 700px;"}
+![branchlens](/assets/img/fig2.pdf){:style="float: right;margin-left: 7px;margin-bottom: 20px; width: 700px;"}
 
 
 ## Rebuilding Morphological Phylogenetics
