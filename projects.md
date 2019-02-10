@@ -4,19 +4,21 @@ title: Projects
 permalink: /projects/
 ---
 
-My work involves a lot of methodological development. However, this is done with the primary aim of addressing fundamental evolutionary questions pertaining to phylogenetic inference, mosaic evolution, and identifying speciation modes among fossil taxa (e.g., direct ancestry, anagenesis vs cladogenesis, and punctuated equilibria). To accommodate the vastness of life, I take a broad view across both plant and animal taxa, in hopes of understanding the fundamental evolutionary patterns that generate and maintain the diversity that we see today. 
+My research aims to better understand the evolutionary drivers underlying the emergence of morphological innovation in fossil and living vertebrates, with particular interests in great apes (including hominins). This has involved some work developing new approaches for reconstructing phylogeny, mosaic evolutionary patterns, and speciation modes (e.g., anagenesis vs "splitting" cladogenesis) using morphological data.
 
-## Morphological Evolution in Living and Fossil Plants
+## Mosaic evolution, constraint, and innovation in ape morphology
 
-I am engaged in work seeking to identify the diversity in evolutionary pattern underlying the emergence of fruit, seed, and pollen diversity in the angiosperm families Vitaceae (grapes) and Icacinaceae. This involves measuring support and uncertainty for the phylogenetic placement of fossil taxa and identifying the relationships between evolutionary rates and disparity between quantitative measurements of reproductive organs, genomes, and climate niche.
-
-![icac](/assets/img/icac_fossils.svg){:style="float: right;margin-left: 7px;margin-bottom: 20px; width: 700px;"}
-
-## Mosaic Evolution in Fossil and Living Apes
-
-In this work, I aim to characterize the diverity of evolutionary patterns that has contributed to the diverse locomotor and other autecological traits that emerged across the hominoid radiation from the Oligocene to the present. This involves developing and refining new tools to interrogate a large dataset of quantitative traits measured across anatomical regions for evolutionary modularity, or mosaicism.
+I aim to characterize the diverity of evolutionary patterns and developmental constraints that has contributed to the diverse locomotor and other autecological traits that emerged across the hominoid radiation from the Oligocene to the present. This involves both empirical work building digital data bases from museum specimens, and methodological work to develop methods that accommodate large quantitative morphological and developmental datasets. My research aims to synthesize observed patterns in large morphological, developmental, and ecological datasets to better understand the hierarchical and complex interactions that catalyze and constrain the emergence of phenotypic novelty. I seek to leverage the knowledge gained from these efforts to both illuminate specific questions regarding ape evolution, and contribute more broadly to our knowledge of evolutionary theory.
 
 ![branchlens](/assets/img/branchlens.svg){:style="float: right;margin-left: 7px;margin-bottom: 20px; width: 700px;"}
+
+
+## Direct ancestry and anagenesis in vertebrate evolution
+
+I am interested in evaluating evidence for directly ancestral relationships by combining continuous and discrete morphological data with stratigraphic data and parametric approaches to phylogenetic inference that I have developed. Rather than relying up on emerging Bayesian approaches that account for stratigraphic information, my approach to evaluating direct ancestry involves an information-theoretic reinterpretation of stratocladistics. I have applied this approach in hominins to reveal strong statistical support for direct ancestry between several key taxa that results in a phylogenetic tree that better reflects previous paleoanthropological interpretations of hominin evolutonary relationships.
+
+![branchlens](/assets/img/branchlens.svg){:style="float: right;margin-left: 7px;margin-bottom: 20px; width: 700px;"}
+
 
 ## Rebuilding Morphological Phylogenetics
 
