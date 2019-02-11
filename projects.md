@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-My research aims to better understand the evolutionary drivers underlying the emergence of morphological innovation in fossil and living vertebrates, with particular interests in great apes (including hominins). This has involved some work developing new approaches for reconstructing phylogeny, mosaic evolutionary patterns, and speciation modes (e.g., anagenesis vs "splitting" cladogenesis) using morphological data.
+I am interested in harnessing diverse computational and conceptual tools such as morphometrics, computational phylogenetics, and adaptive landscapes to address fundamental evolutionary questions using the fossil records and extant diversity of terrestrial organisms. Much of my research aims to better understand the evolutionary drivers underlying the emergence of morphological innovation in fossil and living great apes (including hominins). This has involved some work developing new approaches for reconstructing phylogeny, mosaic evolutionary patterns, and speciation modes (e.g., anagenesis vs "splitting" cladogenesis) from morphology, as well as specimen-based empirical work.
 
 ## Mosaic evolution, constraint, and innovation in apes
 
@@ -15,7 +15,7 @@ I aim to characterize the diverity of evolutionary patterns and developmental co
 
 ## Direct ancestry and anagenesis in vertebrates
 
-I am interested in evaluating evidence for directly ancestral relationships by combining continuous and discrete morphological data with stratigraphic data and parametric approaches to phylogenetic inference that I have developed. Rather than relying up on emerging Bayesian approaches that account for stratigraphic information, my approach to evaluating direct ancestry involves an information-theoretic reinterpretation of stratocladistics. I have applied this approach in hominins to reveal strong statistical support for direct ancestry between several key taxa that results in a phylogenetic tree that better reflects previous paleoanthropological interpretations of hominin evolutonary relationships. I am generally interested in further refining these approaches to reconstruct evolutionary relationships across vertebrates.
+I am interested in evaluating evidence for directly ancestral relationships by combining continuous and discrete morphological data with stratigraphic data and parametric approaches to phylogenetic inference. My approach to evaluating direct ancestry involves an information-theoretic reinterpretation of stratocladistics. I have applied this approach in hominins to reveal strong statistical support for direct ancestry between several key taxa that results in a phylogenetic tree that better reflects previous paleoanthropological interpretations of hominin evolutonary relationships. I am generally interested in further refining these approaches to reconstruct evolutionary relationships across vertebrates.
 
 ![hominins](/assets/img/whole_tree.svg){:style="float: right;margin-left: 7px;margin-bottom: 20px; width: 700px;"}
 
