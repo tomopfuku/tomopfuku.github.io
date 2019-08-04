@@ -4,7 +4,7 @@ title: Papers
 permalink: /papers/
 ---
 
-**C Parins-Fukuchi**, Greiner, E., MacLatchy, L.M., Fisher, D.C. In press, _Paleobiology_. Phylogeny, ancestors, and anagenesis in the hominin fossil record. _Biorxiv version_: 10.1101/434894 
+**C Parins-Fukuchi**, Greiner, E., MacLatchy, L.M., Fisher, D.C. 2019, _Paleobiology_. [Phylogeny, ancestors, and anagenesis in the hominin fossil record.](https://www.cambridge.org/core/journals/paleobiology/article/phylogeny-ancestors-and-anagenesis-in-the-hominin-fossil-record/C3FE4FE5F6F137BA142EE59A62F9D3CB) DOI: 10.1017/pab.2019.12 
 
 **C. Parins-Fukuchi**. 2018, _Evolution_. Bayesian placement of fossils on phylogenies using quantitative morphometric data. DOI: 10.1111/evo.13516
 
