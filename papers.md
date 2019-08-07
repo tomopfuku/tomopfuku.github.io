@@ -8,11 +8,11 @@ Feel free to email me to request reprints!
 
 **Preprints:**
 
-**C Parins-Fukuchi**. In review. [Detecting mosaic patterns in phenotypic disparity.](https://www.biorxiv.org/content/10.1101/423228v3) _BioRxiv_: https://doi.org/10.1101/423228 
+**C Parins-Fukuchi**. In review. [Detecting mosaic patterns in macroevolutionary disparity.](https://www.biorxiv.org/content/10.1101/423228v3) _BioRxiv_: https://doi.org/10.1101/423228 
 
-**C Parins-Fukuchi** In revision. [Character integration, preadaptation, and the evolution of evolvability in apes](https://www.biorxiv.org/content/10.1101/622134v3) DOI: 10.1101/622134
+**C Parins-Fukuchi**. In revision. [Character integration, preadaptation, and the evolution of evolvability in apes.](https://www.biorxiv.org/content/10.1101/622134v3) _BioRxiv_: 10.1101/622134
 
-**C Parins-Fukuchi**, Brown, J.W. [What drives results in Bayesian morphological clock analyses?](https://www.biorxiv.org/content/10.1101/219048v1.abstract) _Biorxiv_: https://doi.org/10.1101/219048
+**C Parins-Fukuchi**, Brown, J.W. [What drives results in Bayesian morphological clock analyses?](https://www.biorxiv.org/content/10.1101/219048v1.abstract) _BioRxiv_: https://doi.org/10.1101/219048
 
 **Journal articles:**
 
@@ -22,6 +22,6 @@ Feel free to email me to request reprints!
 
 **C Parins-Fukuchi**. 2018, _Systematic Biology_. [Use of continuous characters can improve morphological phylogenetics.](https://academic.oup.com/sysbio/article/67/2/328/4102005) DOI: 10.1093/sysbio/syx072
 
-J.W. Brown\*, **Parins-Fukuchi, C.**\*, Stull, G.W., Vargas, O., Smith, S.A. 2017, _Proc. R. Soc. B._ [Bayesian and likelihood phylogenetic reconstructions of morphological characters produce concordant inferences.](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2017.0986) DOI: 10.1098/rspb.2017.0986    \*shared first authorship.
+J.W. Brown\*, **Parins-Fukuchi, C.**\*, Stull, G.W., Vargas, O., Smith, S.A. 2017, _Proc. R. Soc. B._ [Bayesian and likelihood phylogenetic reconstructions of morphological characters produce concordant inferences.](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2017.0986) DOI: 10.1098/rspb.2017.0986    \*equal authorship.
 
 
