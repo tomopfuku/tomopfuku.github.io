@@ -8,11 +8,11 @@ Feel free to email me to request reprints!
 
 **Preprints:**
 
-**C Parins-Fukuchi**. In revision. [Mosaic evolution, preadaptation, and the evolution of evolvability in apes.](https://www.biorxiv.org/content/10.1101/622134v4) _BioRxiv_: 10.1101/622134
-
 **C Parins-Fukuchi**, Brown, J.W. [What drives results in Bayesian morphological clock analyses?](https://www.biorxiv.org/content/10.1101/219048v1.abstract) _BioRxiv_: https://doi.org/10.1101/219048
 
 **Journal articles:**
+
+**C Parins-Fukuchi**. In press, _Evolution_. [Mosaic evolution, preadaptation, and the evolution of evolvability in apes.](https://www.biorxiv.org/content/10.1101/622134v4) _BioRxiv_: 10.1101/622134
 
 **C Parins-Fukuchi**. 2019, _American Naturalist_. [Detecting mosaic patterns in macroevolutionary disparity.](https://www.journals.uchicago.edu/doi/abs/10.1086/706903) DOI:10.1086/706903 
 
