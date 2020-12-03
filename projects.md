@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-I am interested in harnessing diverse approaches including computational phylogenetics, genomics, and morphometrics, to address fundamental evolutionary questions by merging insights from the fossil record and extant biodiversity. Much of my research aims to better understand the developmental, ecological, and evolutionary drivers underlying the emergence of morphological innovation in fossil and living mammals. This has involved some work developing new approaches for reconstructing phylogenies, mosaic/integrated evolutionary patterns, and speciation modes (e.g., anagenesis vs "splitting" cladogenesis) from morphology, as well as specimen-based empirical work. I also collaborate broadly to examine questions in other taxonomic groups, with a secondary major focus on plants.
+I am interested in harnessing diverse approaches including computational phylogenetics, genomics, and morphometrics, to address fundamental evolutionary questions by merging insights from the fossil record and extant biodiversity. Much of my research aims to better understand the developmental, ecological, and evolutionary drivers underlying the emergence of morphological innovation in fossil and living mammals. This has involved some work developing new approaches for reconstructing phylogenies, mosaic/integrated evolutionary patterns, and speciation modes (e.g., anagenesis vs "splitting" cladogenesis) from morphology, as well as specimen-based empirical work. Much of my work is done in Primates and other mammals, but I also collaborate broadly to examine questions in other taxonomic groups, with a secondary major focus on plants.
 
 ## Phylogenomic discordance and processes of phenotypic evolution
 
