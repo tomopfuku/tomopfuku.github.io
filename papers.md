@@ -8,13 +8,14 @@ Feel free to email me to request reprints!
 
 **Preprints:**
 
-**C Parins-Fukuchi**, Stull GW, Smith SA. In review. [Phylogenomic conflict coincides with rapid morphological innovation.](https://www.biorxiv.org/content/10.1101/2020.11.04.368902v1) Biorxiv: 10.1101/2020.11.04.368902
-
-**C Parins-Fukuchi**. In review. [Morphological and phylogeographic evidence for budding speciation: an example in hominins.](https://www.biorxiv.org/content/10.1101/2020.10.23.351114v1) Biorxiv: 10.1101/2020.10.23.351114
+**C Parins-Fukuchi**, Stull GW, Smith SA. In revision. [Phylogenomic conflict coincides with rapid morphological innovation.](https://www.biorxiv.org/content/10.1101/2020.11.04.368902v1) Biorxiv: 10.1101/2020.11.04.368902
 
 **C Parins-Fukuchi**, Brown, J.W. [What drives results in Bayesian morphological clock analyses?](https://www.biorxiv.org/content/10.1101/219048v1.abstract) _BioRxiv_: https://doi.org/10.1101/219048
 
 **Journal articles:**
+
+**C Parins-Fukuchi**. In press, Biology Letters. [Morphological and phylogeographic evidence for budding speciation: an example in hominins.](https://www.biorxiv.org/content/10.1101/2020.10.23.351114v1) Biorxiv: 10.1101/2020.10.23.351114
+
 
 L Mander, **Parins-Fukuchi C**, Dick CW, Punyasena SW and Jaramillo C. 2020, _Biotropica_. [Phylogenetic and ecological drivers of pollen morphological diversity in a Neotropical rainforest.](https://onlinelibrary.wiley.com/doi/full/10.1111/btp.12847)
 
