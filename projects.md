@@ -6,8 +6,8 @@ permalink: /projects/
 
 I develop new inferential approaches for genomic, phenotypic, and fossil evidence to understand emergence of phenotypic innovation. I am currently particularly interested in leveraging coalescent approaches to make inferences about past population processes driving episodes of major change. Much of my work uses Primates as a model system, but I also collaborate broadly to examine questions in other organisms, with a secondary major focus on plants.
 
-## Phylogenomic discordance and processes of phenotypic evolution
-
+## Phylogenomic discordance, phenotypic innovation, and population processes
+ 
 I am broadly interested in understanding the evolutionary relationship between heterogeneous phylogenomic patterns, which are shaped by population-level processes, and patterns in the emergence of novel phenotypes. I have found that bursts in the rate at which new phenotypes evolve frequently correspond to epochs that also experience high discordance in phylogenetic signal across gene trees. I aim to extend this knowledge to better understand whether these corresponding patterns may be shaped by shared underlying population-level processes. I am also interested in exploring how population processes inferred under the coalescent interact with complex morphological patterns at both shallow and deep timescales.
 
 ## Organismal integration, constraint, and innovation
@@ -18,4 +18,4 @@ I aim to understand the diverity of evolutionary patterns and developmental cons
 
 ## Theory of evolutionary inference
 
-How much can our data tell us about the 
+How much can our data tell us about the past processes that shaped empirical patterns in morphological and molecular evolution? I am particularly interested in mapping out the inferential boundaries of evolutionary models to understand our capabilities and limitations when attempting to link the population processes driving major episodes of phenotypic change. I am further interested in linking molecular and phenotypic evolution by developing scaleable computational methods that analyze complex and covarying patterns across varied data types.

@@ -8,14 +8,15 @@ Feel free to email me to request reprints!
 
 **Preprints:**
 
-**C Parins-Fukuchi**, Stull GW, Smith SA. In revision. [Phylogenomic conflict coincides with rapid morphological innovation.](https://www.biorxiv.org/content/10.1101/2020.11.04.368902v1) Biorxiv: 10.1101/2020.11.04.368902
+GW Stull, Qu XJ, **Parins-Fukuchi C**, Yang YY, Yang JB, Yang ZY, Hu Y, Ma H, Soltis PS, Soltis DE, Li DZ, Smith SA, Yi TS. In revision. [Gene duplications and genomic conflict underlie major pulses of phenotypic evolution in gymnosperms.](https://www.biorxiv.org/content/10.1101/2021.03.13.435279v1) Biorxiv DOI: 10.1101/2021.03.13.435279
 
-**C Parins-Fukuchi**, Brown, J.W. [What drives results in Bayesian morphological clock analyses?](https://www.biorxiv.org/content/10.1101/219048v1.abstract) _BioRxiv_: https://doi.org/10.1101/219048
+**C Parins-Fukuchi**, Brown, J.W. [What drives results in Bayesian morphological clock analyses?](https://www.biorxiv.org/content/10.1101/219048v1.abstract) Biorxiv DOI: https://doi.org/10.1101/219048
 
 **Journal articles:**
 
-**C Parins-Fukuchi**. In press, Biology Letters. [Morphological and phylogeographic evidence for budding speciation: an example in hominins.](https://www.biorxiv.org/content/10.1101/2020.10.23.351114v2) Biorxiv: 10.1101/2020.10.23.351114
+**C Parins-Fukuchi**, Stull GW, Smith SA. In press, _Proceedings of the National Academy of Sciences_. [Phylogenomic conflict coincides with rapid morphological innovation.](https://www.biorxiv.org/content/10.1101/2020.11.04.368902v2) Biorxiv: 10.1101/2020.11.04.368902
 
+**C Parins-Fukuchi**. 2021, Biology Letters. [Morphological and phylogeographic evidence for budding speciation: an example in hominins.](https://royalsocietypublishing.org/doi/abs/10.1098/rsbl.2020.0754) DOI: 10.1098/rsbl.2020.0754
 
 L Mander, **Parins-Fukuchi C**, Dick CW, Punyasena SW and Jaramillo C. 2020, _Biotropica_. [Phylogenetic and ecological drivers of pollen morphological diversity in a Neotropical rainforest.](https://onlinelibrary.wiley.com/doi/full/10.1111/btp.12847)
 
