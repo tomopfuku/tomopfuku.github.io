@@ -16,7 +16,7 @@ GW Stull, Qu XJ, **Parins-Fukuchi C**, Yang YY, Yang JB, Yang ZY, Hu Y, Ma H, So
 
 **C Parins-Fukuchi**, Stull GW, Smith SA. In press, _Proceedings of the National Academy of Sciences_. [Phylogenomic conflict coincides with rapid morphological innovation.](https://www.biorxiv.org/content/10.1101/2020.11.04.368902v2) Biorxiv: 10.1101/2020.11.04.368902
 
-**C Parins-Fukuchi**. 2021, Biology Letters. [Morphological and phylogeographic evidence for budding speciation: an example in hominins.](https://royalsocietypublishing.org/doi/abs/10.1098/rsbl.2020.0754) DOI: 10.1098/rsbl.2020.0754
+**C Parins-Fukuchi**. 2021, _Biology Letters_. [Morphological and phylogeographic evidence for budding speciation: an example in hominins.](https://royalsocietypublishing.org/doi/abs/10.1098/rsbl.2020.0754) DOI: 10.1098/rsbl.2020.0754
 
 L Mander, **Parins-Fukuchi C**, Dick CW, Punyasena SW and Jaramillo C. 2020, _Biotropica_. [Phylogenetic and ecological drivers of pollen morphological diversity in a Neotropical rainforest.](https://onlinelibrary.wiley.com/doi/full/10.1111/btp.12847)
 
