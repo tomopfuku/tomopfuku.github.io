@@ -1,5 +1,5 @@
-title: Dr. Caroline Parins-Fukuchi
-email: parinsfukuchi@uchicago.edu
+title: Parins-Fukuchi Lab at U of T
+email: c.parinsfukuchi@utoronto.ca
 description: Computational Evolutionary Biology 
 twitter_username: carolinetomo
 github_username: carolinetomo
@@ -11,6 +11,7 @@ plugins:
   - jekyll-seo-tag
 
 header_pages:
-  - projects.md
+  - people.md
   - papers.md
+  - projects.md
   - software.md

@@ -8,17 +8,17 @@ Feel free to email me to request reprints!
 
 **Preprints:**
 
-GW Stull, Qu XJ, **Parins-Fukuchi C**, Yang YY, Yang JB, Yang ZY, Hu Y, Ma H, Soltis PS, Soltis DE, Li DZ, Smith SA, Yi TS. In revision. [Gene duplications and genomic conflict underlie major pulses of phenotypic evolution in gymnosperms.](https://www.biorxiv.org/content/10.1101/2021.03.13.435279v1) Biorxiv DOI: 10.1101/2021.03.13.435279
-
 **C Parins-Fukuchi**, Brown, J.W. [What drives results in Bayesian morphological clock analyses?](https://www.biorxiv.org/content/10.1101/219048v1.abstract) Biorxiv DOI: https://doi.org/10.1101/219048
 
 **Journal articles:**
 
-**C Parins-Fukuchi**, Stull GW, Smith SA. In press, _Proceedings of the National Academy of Sciences_. [Phylogenomic conflict coincides with rapid morphological innovation.](https://www.biorxiv.org/content/10.1101/2020.11.04.368902v2) Biorxiv: 10.1101/2020.11.04.368902
+GW Stull, Qu XJ, **Parins-Fukuchi C**, Yang YY, Yang JB, Yang ZY, Hu Y, Ma H, Soltis PS, Soltis DE, Li DZ, Smith SA, Yi TS. 2021, _Nature Plants_. [Gene duplications and genomic conflict underlie major pulses of phenotypic evolution in gymnosperms.](https://www.nature.com/articles/s41477-021-00964-4) DOI: 10.1038/s41477-021-00964-4
+
+**C Parins-Fukuchi**, Stull GW, Smith SA. 2021, _Proceedings of the National Academy of Sciences_. [Phylogenomic conflict coincides with rapid morphological innovation.](https://www.biorxiv.org/content/10.1101/2020.11.04.368902v2) DOI: 10.1073/pnas.2023058118
 
 **C Parins-Fukuchi**. 2021, _Biology Letters_. [Morphological and phylogeographic evidence for budding speciation: an example in hominins.](https://royalsocietypublishing.org/doi/abs/10.1098/rsbl.2020.0754) DOI: 10.1098/rsbl.2020.0754
 
-L Mander, **Parins-Fukuchi C**, Dick CW, Punyasena SW and Jaramillo C. 2020, _Biotropica_. [Phylogenetic and ecological drivers of pollen morphological diversity in a Neotropical rainforest.](https://onlinelibrary.wiley.com/doi/full/10.1111/btp.12847)
+L Mander, **Parins-Fukuchi C**, Dick CW, Punyasena SW and Jaramillo C. 2021, _Biotropica_. [Phylogenetic and ecological drivers of pollen morphological diversity in a Neotropical rainforest.](https://onlinelibrary.wiley.com/doi/full/10.1111/btp.12847)
 
 
 **C Parins-Fukuchi**. 2020, _Evolution_. [Mosaic evolution, preadaptation, and the evolution of evolvability in apes.](https://onlinelibrary.wiley.com/doi/10.1111/evo.13923) DOI: 10.1101/622134
