@@ -5,7 +5,7 @@ permalink: /people/
 ---
 
 
-### PI: Caroline Parins-Fukuchi
+### Principal Investigator: Caroline Parins-Fukuchi
 
 ![cpf](/assets/img/CPF_crop.jpg){:style="float: left;margin-left: 7px;margin-bottom: 20px; width: 300px;"}  
 
