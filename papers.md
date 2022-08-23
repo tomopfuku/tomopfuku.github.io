@@ -8,6 +8,10 @@ Feel free to email me to request reprints!
 
 **Preprints:**
 
+**C Parins-Fukuchi**, Saulsbury J. 2022. [Functional morphological innovation corresponds to shifting lines of genetic least resistance.](https://www.biorxiv.org/content/10.1101/2022.07.30.502152v1) Biorxiv DOI: 502152
+
+SA Smith, Walker-Hale N, **Parins-Fukuchi C**. 2022, Submitted. [Compositional shifts associated with major evolutionary transitions in plants.](https://www.biorxiv.org/content/10.1101/2022.06.13.495913v1.full.pdf) Biorxiv DOI: 10.1101/2022.06.13.495913
+
 **C Parins-Fukuchi**, Brown, J.W. [What drives results in Bayesian morphological clock analyses?](https://www.biorxiv.org/content/10.1101/219048v1.abstract) Biorxiv DOI: https://doi.org/10.1101/219048
 
 **Journal articles:**
