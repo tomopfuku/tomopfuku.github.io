@@ -11,7 +11,11 @@ permalink: /people/
 
 I am a computational evolutionary biologist rooted in paleobiology and phylogenetics. I develop new computational approaches to understand the evolutionary processes and patterns underlying the emergence of novel and complex phenotypic traits. I seek to uncover the limits of our ability to infer the microevolutionary processes that drove large-scale evolutionary patterns over deep time by combining information from genomes, phenotypes, and the fossil record. I explore these questions across a range of fossil, and sometimes living, systems.
 
+
+
+
 ### Postdocs:
+
 
 #### Dr. Eric Hagen
 
@@ -20,11 +24,14 @@ I am a computational evolutionary biologist rooted in paleobiology and phylogene
 Eric is a macroevolutionary biologist interested in questions at large scales: he is excited by topics like diversification of speciose clades, evolution over long time scales, and global biogeography. Eric’s doctoral research focused on the macroevolutionary consequences of plant polyploidy. In the Parins-Fukuchi lab, he is working on macroevolutionary models that account for incomplete fossil preservation and stratigraphic biases. If you’re interested in his work, please check out his [website.](https://erichagen.github.io/)
 
 
+
 ### Grad students:
+
 
 #### Michelle Su
 
 More soon 
+
 
 #### Thomas Wildeboer
 
