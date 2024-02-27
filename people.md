@@ -5,7 +5,9 @@ permalink: /people/
 ---
 
 
-### Principal Investigator: C. Tomomi Parins-Fukuchi
+### Principal Investigator: 
+
+#### C. Tomomi Parins-Fukuchi
 
 ![tpf](/assets/img/cjf.jpg){:style="float: left;margin-left: 7px;margin-bottom: 20px; width: 300px;"}  
 
@@ -30,7 +32,11 @@ Eric is a macroevolutionary biologist interested in questions at large scales: h
 
 #### Michelle Su
 
-More soon 
+
+![michelle](/assets/img/michelle.jpg){:style="float: left;margin-left: 7px;margin-bottom: 20px; width: 300px;"}  
+
+Michelle started her PhD in the Parins-Fukuchi lab in September 2023. She is using the rich fossil record of sand dollars to examine how microevolutionary processes scale up to macroevolutionary phenomena, incorporating ideas such as evo-devo, persistent intraspecific variation, species selection, and evolvability. During her undergrad at UofT, she completed an honour’s thesis on the evolution of scale morphology in Anolis lizards and worked on various projects involving avian museum specimens and phylogenies.
+
 
 
 #### Thomas Wildeboer
